@@ -29,7 +29,7 @@
     ],
     "pluginsConfig": {
         "fontsettings": {
-          "theme": "dark",
+          "theme": "night",
           "family":"sans",
           "size": 3
         }
