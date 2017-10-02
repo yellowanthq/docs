@@ -24,5 +24,10 @@
     },
     "plugins": [
       "youtube"
-    ]
+    ],
+    "pluginsConfig": {
+    "fontSettings": {
+      "theme": "night"
+    }
+  }
 }
