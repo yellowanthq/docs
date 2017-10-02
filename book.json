@@ -28,7 +28,9 @@
     ],
     "pluginsConfig": {
         "fontSettings": {
-          "theme": "night"
+          "theme": "night",
+          "family":"sans",
+          "size": 3
         }
   }
 }
