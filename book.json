@@ -23,8 +23,7 @@
         "url": "https://github.com/yellowanthq/docs/issues"
     },
     "plugins": [
-      "youtube",
-      "-fontsettings"
+      "youtube"
     ],
     "pluginsConfig": {
         "fontSettings": {
