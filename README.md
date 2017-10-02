@@ -1,6 +1,8 @@
-# My Awesome Book
+# Introduction to YellowAnt
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+YellowAnt is a workplace assistant bot that lets you manage and automate your work. YellowAnt is available as a standalone web application and as a bot on Slack.
+
+
 
 
 
