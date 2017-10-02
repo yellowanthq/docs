@@ -24,7 +24,8 @@
     },
     "plugins": [
       "youtube",
-      "collapsible-menu"
+      "collapsible-menu",
+      "toggle-chapters"
     ],
     "pluginsConfig": {
         "fontsettings": {
