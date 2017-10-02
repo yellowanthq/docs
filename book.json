@@ -23,6 +23,7 @@
         "url": "https://github.com/yellowanthq/docs/issues"
     },
     "plugins": [
-      "youtube"
+      "youtube",
+      "gitbook-plugin-youtubex"
     ]
 }
