@@ -40,8 +40,7 @@
             "appleTouch": "assets/images/logo/yellowanticon.ico",
             "appleTouchMore": {
                 "150x150": "assets/images/logo/logo/yellowantLogo150.png",
-                "180x180": "assets/images/logo/logo/yellowant200.png",
-
+                "180x180": "assets/images/logo/logo/yellowant200.png"
             }
         }
   }
