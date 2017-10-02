@@ -25,13 +25,24 @@
     "plugins": [
       "youtube",
       "collapsible-menu",
-      "toggle-chapters"
+      "toggle-chapters",
+      "favicon"
     ],
     "pluginsConfig": {
         "fontsettings": {
           "theme": "night",
           "family":"sans",
           "size": 3
+        },
+        "favicon":{
+            "shortcut": "assets/images/logo/yellowanticon.ico",
+            "bookmark": "assets/images/logo/yellowanticon.ico",
+            "appleTouch": "assets/images/logo/yellowanticon.ico",
+            "appleTouchMore": {
+                "150x150": "assets/images/logo/logo/yellowantLogo150.png",
+                "180x180": "assets/images/logo/logo/yellowant200.png",
+
+            }
         }
   }
 }
