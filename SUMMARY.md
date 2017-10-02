@@ -10,8 +10,8 @@
   * [Adding integration](integrating-applications/adding-integration.md)
   * [Testing Integration](integrating-applications/testing-integration.md)
 * [Creating Crumbs\(Workflows\)](creating-crumbsworkflows.md)
-  * Command Crumbs
-  * Event Crumbs
+  * [Command Crumbs](creating-crumbsworkflows/command-crumbs.md)
+  * [Event Crumbs](creating-crumbsworkflows/event-crumbs.md)
 * [Executing commands](executing-commands.md)
   * Command Syntax
   * Using Dialogs
