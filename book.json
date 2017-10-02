@@ -29,8 +29,8 @@
       "toggle-chapters"
     ],
     "pluginsConfig": {
-        "fontsettings": {
-          "theme": "night",
+        "theme-api": {
+          "theme": "dark",
           "family":"sans",
           "size": 3
         }
