@@ -24,12 +24,13 @@
     },
     "plugins": [
       "youtube",
+      "theme-api",
       "collapsible-menu",
       "toggle-chapters"
     ],
     "pluginsConfig": {
         "fontsettings": {
-          "theme": "night",
+          "theme": "dark",
           "family":"sans",
           "size": 3
         }
