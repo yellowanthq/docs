@@ -1,0 +1,30 @@
+{
+    "bookname": "docs",
+    "description": "YellowAnt docs",
+    "author": "YellowAnt Inc.",
+    "keywords": [
+        "yellowant",
+        "slack",
+        "chatbot",
+        "bot",
+        "chatbot",
+        "ai","ml","nlp",
+        "workflows",
+        "automation"
+    ],
+    "ignores": ["backup", "_book", "styles", "assets", "node_modules","sources"],
+    "homepage": "https://github.com/yellowanthq/docs",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yellowanthq/docs.git"
+    },
+    "bugs": {
+        "url": "https://github.com/yellowanthq/docs/issues"
+    },
+    "plugins": [
+      "baidu",
+      "youtube",
+      "-livereload"
+    ]
+}
