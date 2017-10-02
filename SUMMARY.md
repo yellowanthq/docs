@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
   * [Teams](yellowant-teams.md)
-    * Managing Teams
+    * [Managing Teams](yellowant-teams/managing-teams.md)
     * Billing
   * [Users](users.md)
     * [Managing your account](users/managing-account.md)

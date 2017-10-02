@@ -2,11 +2,7 @@
 
 YellowAnt is a workplace assistant bot that lets you manage and automate your work. YellowAnt is available as a standalone web application and as a bot on Slack.
 
-Once the YellowAnt bites its user, it gives them the superpowers to control each app and every tool that he uses not only in his workplace but also his daily life. YellowAnt has its own marketplace of apps to choose from and users can themselves build apps and upload it to our marketplace just like any other AppStore.
+YellowAnt connects with your workplace applications like Email, Calendar, Cloud Storage, Code Repositories, Application and Server monitoring, incident management, CI/CD and most DevOps tools and gets you real time updates from all your apps. These updates also come with interactive action buttons and action forms, so that you can immediate action whenever you get an alert.
 
-We often feel stressed that we have a plethora of apps to manage. Let’s take a simple situation in which you have to go to an app to check mails, then add an appointment in your calendar, then make notes for it in another app and then finally tweet about it using a completely different app. But with YellowAnt all these tasks can be done with four simple commands! Magical, isn’t it? This is just a beginning of a new era in which you and your whole team, simply use YellowAnt to work without the hassle of managing tens of apps and hopping from one app to another.
-
-Wait, there is more. YellowAnt is an intelligent bot, it helps you with our console and quickly eases you with its commands. With time it learns your usage patterns and suggests you easier ways to manage your tasks. It can also chat with you like the bots you have on your smartphones, and slowly it understands if you are a Game of Thrones or Westworld fan or any of your interests and hobbies for that matter.
-
-
+Since YellowAnt is connected to all your apps, you can create cross application workflows that can be triggered by a YellowAnt command or a background event from one of your apps. These powerful workflows ultimately lets you automate a significant chunk of your tasks and take actions with incredible speed thereby reducing your response time to critical events.
 
