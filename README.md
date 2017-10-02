@@ -9,14 +9,9 @@ We often feel stressed that we have a plethora of apps to manage. Let’s take a
 Wait, there is more. YellowAnt is an intelligent bot, it helps you with our console and quickly eases you with its commands. With time it learns your usage patterns and suggests you easier ways to manage your tasks. It can also chat with you like the bots you have on your smartphones, and slowly it understands if you are a Game of Thrones or Westworld fan or any of your interests and hobbies for that matter.
 
 ```
-{% youtube src="https://www.youtube.com/watch?v=9bZkp7q19f0" %}{% endyoutube %}
-```
+{% youtube %} https://youtube.com/watch?v=U6c6qCCPJa4 {% endyoutube %}
 
 ```
-{%youtube%}dQw4w9WgXcQ{%endyoutube%}
-```
-
-
 
 
 
