@@ -13,7 +13,7 @@
   * [Command Crumbs](creating-crumbsworkflows/command-crumbs.md)
   * [Event Crumbs](creating-crumbsworkflows/event-crumbs.md)
 * [Executing commands](executing-commands.md)
-  * Command Syntax
+  * [Command Syntax](executing-commands/command-syntax.md)
   * Using Dialogs
 * [Building applications](building-applications.md)
   * API Documentation
