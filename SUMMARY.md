@@ -3,7 +3,10 @@
 * [Introduction](README.md)
   * [Teams](yellowant-teams.md)
     * [Managing Teams](yellowant-teams/managing-teams.md)
-    * Billing
+      * [Update Team Name](yellowant-teams/managing-teams/update-team-name.md)
+      * [Deactivating and deleting a team member](yellowant-teams/managing-teams/deactivating-and-deleting-a-team-member.md)
+      * [Deleting team](yellowant-teams/managing-teams/deleting-team.md)
+      * [Inviting team members](yellowant-teams/managing-teams/inviting-tea-members.md)
   * [Users](users.md)
     * [Managing your account](users/managing-account.md)
 * [How to Signup](chapter1.md)
