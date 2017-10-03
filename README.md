@@ -16,7 +16,8 @@ Since YellowAnt is connected to all your apps, you can create cross application 
 
 ![Command triggered workflows](/assets/ss6.png "Command triggered workflows")
 
-![Event triggered workflows](/assets/screenshot-yellowantdevtest.yellowant.com-2017-09-20-17-53-26-409.png "Event triggered workflows") 
+![Event triggered workflows](/assets/screenshot-yellowantdevtest.yellowant.com-2017-09-20-17-53-26-409.png "Event triggered workflows")
+
 
 
 
