@@ -32,7 +32,7 @@
     ],
     "pluginsConfig": {
         "fontsettings": {
-          "theme": "night",
+          "theme": "white",
           "family":"sans",
           "size": 3
         },
