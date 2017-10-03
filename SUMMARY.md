@@ -20,6 +20,10 @@
 * [Executing commands](executing-commands.md)
   * [Command Syntax](executing-commands/command-syntax.md)
   * [Using Dialogs](executing-commands/using-dialogs.md)
+* [System commands](system-commands.md)
+  * yellowant
+  * help
+  * cron
 * [Building applications](building-applications.md)
   * API Documentation
   * Testing Application
