@@ -27,6 +27,7 @@
       "collapsible-menu",
       "toggle-chapters",
       "image-wrapper",
+      "image-captions",
       "favicon"
     ],
     "pluginsConfig": {
