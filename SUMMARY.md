@@ -30,10 +30,10 @@
   * [Command Syntax](executing-commands/command-syntax.md)
   * [Using Dialogs](executing-commands/using-dialogs.md)
 * [System commands](system-commands.md)
-  * yellowant
-  * help
-  * cron
+  * [yellowant](system-commands/yellowant.md)
+  * [help](system-commands/help.md)
+  * [cron](system-commands/cron.md)
 * [Building applications](building-applications.md)
-  * API Documentation
-  * Testing Application
+  * [API Documentation](building-applications/api-documentation.md)
+  * [Testing Application](building-applications/testing-application.md)
 
